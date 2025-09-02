@@ -5,7 +5,7 @@
 
 Use o script `run.sh` para compilar e rodar qualquer exemplo.
 
-### Exemplo: Executar `ExemploVBox.java`
+### Exemplo:
 
 1. Abra o terminal na pasta do projeto.
 
