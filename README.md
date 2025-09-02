@@ -1,6 +1,5 @@
 # 💻 Projeto JavaFX
 
-
 ## ▶️ Executar o arquivo Java
 
 Use o script `run.sh` para compilar e rodar qualquer exemplo.
