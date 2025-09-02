@@ -11,4 +11,4 @@ Use o script `run.sh` para compilar e rodar qualquer exemplo.
 
 2. Execute o chmod +x run.sh
 
-3. Execute o ./run.sh Numero do Exercicio (1,2,3,4)
+3. Execute o ./run.sh (Numero do Exercicio=1,2,3,4)
